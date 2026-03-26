@@ -1,0 +1,2 @@
+bing-image-downloader==1.1.2
+pillow==12.1.1
